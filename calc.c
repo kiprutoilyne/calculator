@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#include "functions.h"
+#include "functions.c"
 /*
 This is the main method
 It's the entry point of our program
